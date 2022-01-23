@@ -1,0 +1,33 @@
+{
+    "manifest_version": 2,
+    "name": "百度网盘分享链接跳转",
+    "version": "1.0.0",
+    // 插件描述
+    "description": "选中百度网盘的不完整分享链接，右键菜单自动补全跳转",
+    "icons": {
+        "16": "images/favicon.png",
+        "48": "images/favicon.png",
+        "128": "images/favicon.png"
+    },
+    // 会一直常驻的后台JS或后台页面
+    "background": {
+        "scripts": ["scripts/bg.js"]
+    },
+
+    "browser_action": {
+        "default_icon": "images/favicon.png",
+        // 图标悬停时的标题，可选
+        "default_title": "百度网盘分享链接跳转"
+    },
+
+    // 权限申请
+    "permissions": [
+        "contextMenus", // 右键菜单
+        "tabs" // 标签
+    ],
+    "homepage_url": "https://pan.baidu.com",
+    // 向地址栏注册一个关键字以提供搜索建议，只能设置一个关键字
+    "omnibox": { "keyword": "pan" }
+    // 默认语言
+    //	"default_locale": "zh_CN"
+}
