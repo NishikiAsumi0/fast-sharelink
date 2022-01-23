@@ -4,10 +4,10 @@ Chrome扩展程序
 
 e.g. 
 
-链接：https://pan.xunlei.com/s/VMf89FNrNgp0oIKvrFARA1 提取码：4968  
+链接：https://pan.baidu.com/s/VMf89FNrNgp0oIKvrFARA1 提取码：4968  
 /s/VMf89FNrNgp0oIKvrFARA1 提取码：4968  
 s/VMf89FNrNgp0oIKvrFARA1 提取码：4968  
 VMf89FNrNgp0oIKvrFARA1 提取码：4968  
-https://pan.xunlei.com/s/VMf89FNrNgp0oIKvrFARA1 提取码：4968  
+https://pan.baidu.com/s/VMf89FNrNgp0oIKvrFARA1 提取码：4968  
 VMf89FNrNgp0oIKvrFARA1 4968  
 VMf89FNrNgp0oIKvrFARA1
